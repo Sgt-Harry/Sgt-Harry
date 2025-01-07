@@ -1,7 +1,10 @@
 #About me 😎
 
 I'm a big fan of doing something in the field of Rototik and currently working on the basic understanding of controlling the Rotor.
-I'm also learning RUST right now and try to combining it with ROS.
+
+~I'm also learning RUST right now and try to combining it with ROS.~ (Not anymore)
+
+I'm working on on a project which tries to combine AllgeroHand V4 into a UR platform on ros2.
 
 Well, that will be the profile for now,
 I may add more thing about me if i find more thing to say.
